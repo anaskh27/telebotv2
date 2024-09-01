@@ -26,7 +26,7 @@ Make sure you have the following installed on your system:
    Navigate into the project directory:
 
    ```bash
-   cd backendTeleBot
+   cd telegram
    ```
 
 2. **Initialize Node.js and Install Dependencies**
